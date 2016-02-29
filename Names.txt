@@ -10,12 +10,6 @@ Shalini Diwan
 
 //Ages
 Jon Vaughn : 29
-Santanu : 26
-Shalini Diwan : 27
-Gargi Pal
-
-//Ages
-Jon Vaughn : 29
 Uday Chatterjee : 32
 Santanu Dhar: 26
 Dibyendu Mitra Roy: 38
@@ -28,5 +22,6 @@ Gargi Pal : 23
 
 
 //Favorite Passtime
-Jon Vaughn: Building Robots
+Jon Vaughn: Building Robot 
+Santanu Dhar: Singing
 
