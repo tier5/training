@@ -1,7 +1,7 @@
 //Names
 Jon Vaughn
 Dibyendu Mitra Roy
-Santanu
+Santanu Dhar
 Uday Chatterjee
 Kingsuk Majumder
 Subhankar Roy
@@ -12,3 +12,21 @@ Shalini Diwan
 Jon Vaughn : 29
 Santanu : 26
 Shalini Diwan : 27
+Gargi Pal
+
+//Ages
+Jon Vaughn : 29
+Uday Chatterjee : 32
+Santanu Dhar: 26
+Dibyendu Mitra Roy: 38
+Subhankar : 22
+Prodipto Dhar:30
+Kingsuk Majumder : 22
+Subhadip Sahoo : 28
+Gargi Pal : 23
+
+
+
+//Favorite Passtime
+Jon Vaughn: Building Robots
+
