@@ -1,21 +1,16 @@
 //Names
 Jon Vaughn
-<<<<<<< HEAD
 Santanu
-=======
 Uday Chatterjee
 Kingsuk Majumder
 
->>>>>>> f04554f7e205d9d5563d8a884601769c8483318d
 
 //Ages
 Jon Vaughn : 29
-<<<<<<< HEAD
 Santanu : 26
-=======
+Uday Chatterjee : 32
 
 //Names
 Subhankar Roy
 
 
->>>>>>> 263e052e6e35e8888aeb458bb2db576cfb7f4c0a
