@@ -8,14 +8,35 @@ Subhankar Roy
 prodipto Dhar
 Subhadip Sahoo
 Anish Chakraborty
+Amit Das
+Gargi Pal
+Tanumoy Paul
+Biplab Mukherjee
+
 
 //Ages
 Jon Vaughn : 29
+Uday Chatterjee : 32
 Santanu Dhar: 26
 Dibyendu Mitra Roy: 38
 Subhankar : 22
-Dibyendu Mitra Roy: 38
 Prodipto Dhar:30
 Kingsuk Majumder : 22
 Subhadip Sahoo : 28
 Anish Chakraborty:24
+Gargi Pal : 23
+Tanumoy Paul : 27
+Amit Das : 30
+
+
+
+//Favorite Passtime
+Jon Vaughn: Building Robots
+Gargi Pal: Watching Movie
+Santanu Dhar: Singing
+Uday Chatterjee: Watching Movie
+Dibyendu Mitra Roy: Reading & Watching Sports
+Subhadip Sahoo : Playing cricket
+Uday Chatterjee: Watching Movie
+Prodipto Dhar:Playing Video Game
+
