@@ -9,6 +9,7 @@ prodipto Dhar
 Subhadip Sahoo
 Amit Das
 Gargi Pal
+Tanumoy Paul
 
 //Ages
 Jon Vaughn : 29
@@ -20,6 +21,7 @@ Prodipto Dhar:30
 Kingsuk Majumder : 22
 Subhadip Sahoo : 28
 Gargi Pal : 23
+Tanumoy Paul : 27
 
 
 
