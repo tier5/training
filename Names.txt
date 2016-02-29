@@ -1,6 +1,11 @@
 //Names
 Jon Vaughn
+<<<<<<< HEAD
 Santanu
+=======
+Uday Chatterjee
+
+>>>>>>> f04554f7e205d9d5563d8a884601769c8483318d
 
 //Ages
 Jon Vaughn : 29
