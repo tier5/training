@@ -5,7 +5,11 @@ Santanu Dhar
 Uday Chatterjee
 Kingsuk Majumder
 Subhankar Roy
+prodipto Dhar
+Subhadip Sahoo
+Amit Das
 Gargi Pal
+Biplab Mukherjee
 
 //Ages
 Jon Vaughn : 29
@@ -23,3 +27,5 @@ Gargi Pal : 23
 //Favorite Passtime
 Jon Vaughn: Building Robots
 Gargi Pal: Watching Movie
+Santanu Dhar: Singing
+Uday Chatterjee: Watching Movie
