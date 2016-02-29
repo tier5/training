@@ -9,6 +9,7 @@ prodipto Dhar
 Subhadip Sahoo
 Amit Das
 Gargi Pal
+Tanumoy Paul
 Biplab Mukherjee
 
 //Ages
@@ -21,6 +22,7 @@ Prodipto Dhar:30
 Kingsuk Majumder : 22
 Subhadip Sahoo : 28
 Gargi Pal : 23
+Tanumoy Paul : 27
 Amit Das : 30
 
 
@@ -29,6 +31,8 @@ Amit Das : 30
 Jon Vaughn: Building Robots
 Gargi Pal: Watching Movie
 Santanu Dhar: Singing
+Uday Chatterjee: Watching Movie
+Dibyendu Mitra Roy: Reading & Watching Sports
 Subhadip Sahoo : Playing cricket
 Uday Chatterjee: Watching Movie
 Prodipto Dhar:Playing Video Game
