@@ -1,14 +1,14 @@
 //Names
 Jon Vaughn
+Santanu
 Uday Chatterjee
 Kingsuk Majumder
+Subhankar Roy
 
 
 //Ages
 Jon Vaughn : 29
 
-//Names
-Subhankar Roy
+Santanu : 26
 
-//Ages
-Subhankar Roy :22
+Subhankar : 22
