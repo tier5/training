@@ -1,5 +1,6 @@
 //Names
 Jon Vaughn
+<<<<<<< HEAD
 Santanu Dhar
 Uday Chatterjee
 Kingsuk Majumder
@@ -8,3 +9,15 @@ Subhankar Roy
 //Ages
 Jon Vaughn : 29
 Santanu Dhar: 26
+=======
+Dibyendu Mitra Roy
+Santanu
+Uday Chatterjee
+Kingsuk Majumder
+Subhankar Roy
+
+
+//Ages
+Jon Vaughn : 29
+Santanu : 26
+>>>>>>> d898bcebc93c755e879e0ff9658eec954d7e746c
