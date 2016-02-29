@@ -1,22 +1,19 @@
 //Names
 Jon Vaughn
 Dibyendu Mitra Roy
-Santanu
+Santanu Dhar
 Uday Chatterjee
 Kingsuk Majumder
 Subhankar Roy
 prodipto Dhar
 Subhadip Sahoo
 
-
 //Ages
 Jon Vaughn : 29
-Santanu : 26
 Uday Chatterjee : 32
-Subhankar : 22
-Santanu : 26
+Santanu Dhar: 26
 Dibyendu Mitra Roy: 38
+Subhankar : 22
 Prodipto Dhar:30
 Kingsuk Majumder : 22
 Subhadip Sahoo : 28
-
