@@ -5,7 +5,7 @@ Santanu Dhar
 Uday Chatterjee
 Kingsuk Majumder
 Subhankar Roy
-<<<<<<< HEAD
+
 Shalini Diwan
 
 =======
@@ -13,7 +13,11 @@ prodipto Dhar
 Subhadip Sahoo
 Amit Das
 Gargi Pal
+<<<<<<< HEAD
 >>>>>>> 4cbe5c725617080444dc5494bddba9f75a1a5a2e
+=======
+Biplab Mukherjee
+>>>>>>> e6108310c1453a7054bca81696f18eeb0245eb19
 
 //Ages
 Jon Vaughn : 29
@@ -29,6 +33,7 @@ Gargi Pal : 23
 
 
 //Favorite Passtime
+<<<<<<< HEAD
 Jon Vaughn: Building Robot 
 Santanu Dhar: Singing
 <<<<<<< HEAD
@@ -36,3 +41,11 @@ Santanu Dhar: Singing
 =======
 Uday Chatterjee: Watching Movie
 >>>>>>> 4cbe5c725617080444dc5494bddba9f75a1a5a2e
+=======
+Jon Vaughn: Building Robots
+Gargi Pal: Watching Movie
+Santanu Dhar: Singing
+Subhadip Sahoo : Playing cricket
+Uday Chatterjee: Watching Movie
+Shalini Diwan: Watching Movie
+
