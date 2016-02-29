@@ -23,6 +23,7 @@ Kingsuk Majumder : 22
 Subhadip Sahoo : 28
 Gargi Pal : 23
 Tanumoy Paul : 27
+Amit Das : 30
 
 
 
@@ -32,3 +33,4 @@ Gargi Pal: Watching Movie
 Santanu Dhar: Singing
 Subhadip Sahoo : Playing cricket
 Uday Chatterjee: Watching Movie
+Prodipto Dhar:Playing Video Game
